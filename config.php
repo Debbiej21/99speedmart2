@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost"; 
-$username = "root"; 
-$password = ""; 
+$servername = "database-2.cbyhk7lkaodh.us-east-1.rds.amazonaws.com"; 
+$username = "aws_user"; 
+$password = "Bait9999"; 
 $dbname = "speed_db"; 
 
 // Create connection
